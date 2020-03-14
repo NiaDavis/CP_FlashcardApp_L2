@@ -1,7 +1,7 @@
 ## Lab 2
 
 ### App Description
- You completed all of the required steps for the second lab.
+ Completed all of the required steps for the second lab.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
