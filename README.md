@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/14878818/77027712-5f555100-696d-11ea-88ba-b931d7c57755.gif)" width=200><br>
+<img src="ezgif.com-video-to-giflab3.gif" width=200><br>
 
 ## Required
 - [x] User can browse through multiple flashcards
