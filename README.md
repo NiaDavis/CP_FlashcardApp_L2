@@ -4,8 +4,7 @@
  Completed all of the required steps for the third lab.
 
 ### App Walk-though
-
-<img src="ezgif.com-video-to-giflab3.gif" width=200><br>
+![ezgif com-video-to-giflab3](https://user-images.githubusercontent.com/14878818/77132813-18339280-6a37-11ea-8813-dee78135924d.gif)
 
 ## Required
 - [x] User can browse through multiple flashcards
