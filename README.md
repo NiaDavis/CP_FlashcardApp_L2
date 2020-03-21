@@ -22,8 +22,7 @@
  Completed all of the required steps for the second (2nd) lab.
 
 ### App Walk-though
-
-<img src="ezgif.com-video-to-gif.gif" width=200><br>
+![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/14878818/77218012-4c718680-6afd-11ea-8ca7-7d3de9e40e8c.gif)
 
 ## Required
 - [x] User can open the creation screen
