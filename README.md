@@ -1,21 +1,21 @@
+## Flashcard App
 ## LAB 4
 
 ### App Description
-Add app description
+ Completed all of the required steps for the fourth/ last (4th) lab.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
 
 ## Required
-- [ ] User should see the app icon 
-- [ ] User should see a splash screen
-- [ ] User should see an flip animation when revealing the answer
-- [ ] User should see a slide animation when going to the next flashcard
-- [ ] User should see a slide animation when going to the previous flashcard
-- [ ] Push code to GitHub
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
 ## Optional
-- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see a nicer flashcard with rounded corners, shadows, and animating when showing the first time
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
 
@@ -40,7 +40,7 @@ Add app description
 ## LAB 2
 
 ### App Description
- Completed all of the required steps for the second (2nd) lab.
+ Completed all of the required & optional steps for the second (2nd) lab.
 
 ### App Walk-though
 ![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/14878818/77218012-4c718680-6afd-11ea-8ca7-7d3de9e40e8c.gif)
@@ -55,12 +55,10 @@ Add app description
 - [x] User can edit existing flashcard
 - [x] User can add multiple choice answers in the creation screen
 
-## Flashcard App
-
 ## LAB 1
 
 ### App Description
-Completed all of the required steps for the first (1st) lab.
+Completed all of the required & optional steps for the first (1st) lab.
 
 ### App Walk-though
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/14878818/77132481-069dbb00-6a36-11ea-8a74-7cd9283f256c.gif)
