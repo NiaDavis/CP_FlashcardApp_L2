@@ -1,7 +1,7 @@
-## Lab 3
+## LAB 3
 
 ### App Description
- Completed all of the required steps for the third lab.
+ Completed all of the required steps for the third (3rd) lab.
 
 ### App Walk-though
 ![ezgif com-video-to-giflab3](https://user-images.githubusercontent.com/14878818/77132813-18339280-6a37-11ea-8813-dee78135924d.gif)
@@ -16,10 +16,10 @@
 - [ ] User can store multiple choice questions
 
 
-## Lab 2
+## LAB 2
 
 ### App Description
- Completed all of the required steps for the second lab.
+ Completed all of the required steps for the second (2nd) lab.
 
 ### App Walk-though
 
@@ -31,6 +31,6 @@
 - [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [x] Push code to GitHub
 ## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
-- [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
+- [x] User gets an error if they try to create a new flashcard with no question or answer
+- [x] User can edit existing flashcard
+- [x] User can add multiple choice answers in the creation screen
